@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on the Federal Court of Appeals
-- 🌱 I’m currently learning I'm currently learning Php and English 
+- 🌱 I’m currently learning I'm currently learning English 
 - 👯 I’m looking to collaborate on projects with Javascript, React.js and some Vue.js
 - 🤔 I'm a fan of never stop learning
 
